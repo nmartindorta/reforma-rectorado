@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header/>
+  <Topic Guid="7e818340-a151-11e8-a659-e9918675805b" TopicStatus="open" TopicType="rfi">
+    <Title>ventana</Title>
+    <Priority>high</Priority>
+    <CreationDate>2018-08-16T12:40:02+00:00</CreationDate>
+    <CreationAuthor>nmartindorta</CreationAuthor>
+    <Description>la ventana prueba</Description>
+    <DueDate>2018-08-22T23:00:00+00:00</DueDate>
+  </Topic>
+  <Comment Guid="e960c553-af87-477e-99c2-4e06bd1cc906">
+    <Date>2018-08-16T12:40:25+00:00</Date>
+    <Author>nmartindorta</Author>
+    <Comment>comentario prueba</Comment>
+    <Viewpoint Guid="ff6b9780-5f4f-4a37-a307-7303481aa57f"/>
+    <Status>Rfi</Status>
+    <VerbalStatus>open</VerbalStatus>
+  </Comment>
+  <Viewpoints Guid="17114cd3-a258-465c-bce8-6af1ee135578">
+    <Viewpoint>viewpoint.bcfv</Viewpoint>
+    <Snapshot>snapshot.png</Snapshot>
+  </Viewpoints>
+  <Viewpoints Guid="ff6b9780-5f4f-4a37-a307-7303481aa57f">
+    <Viewpoint>viewpoint1.bcfv</Viewpoint>
+    <Snapshot>snapshot1.png</Snapshot>
+  </Viewpoints>
+</Markup>

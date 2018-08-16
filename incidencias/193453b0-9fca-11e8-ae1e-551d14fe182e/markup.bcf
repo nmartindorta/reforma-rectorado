@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Markup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header/>
+  <Topic Guid="193453b0-9fca-11e8-ae1e-551d14fe182e" TopicStatus="open" TopicType="for_information">
+    <Title>prueba</Title>
+    <Priority>medium</Priority>
+    <CreationDate>2018-08-14T13:58:18+00:00</CreationDate>
+    <CreationAuthor>nmartindorta</CreationAuthor>
+    <Description>Esto es una prueba</Description>
+    <DueDate>2018-08-16T23:00:00+00:00</DueDate>
+  </Topic>
+  <Viewpoints Guid="e802e024-7a83-4877-8e54-64b06337f4ba">
+    <Viewpoint>viewpoint.bcfv</Viewpoint>
+    <Snapshot>snapshot.png</Snapshot>
+  </Viewpoints>
+</Markup>

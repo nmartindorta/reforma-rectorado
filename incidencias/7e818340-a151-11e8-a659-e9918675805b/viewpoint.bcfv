@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VisualizationInfo Guid="17114cd3-a258-465c-bce8-6af1ee135578" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PerspectiveCamera>
+    <CameraViewPoint>
+      <X>-27.41073226928711</X>
+      <Y>3.7920713424682617</Y>
+      <Z>2.0676393508911133</Z>
+    </CameraViewPoint>
+    <CameraDirection>
+      <X>0.6286950707435608</X>
+      <Y>0.7734673023223877</Y>
+      <Z>-0.08056633174419403</Z>
+    </CameraDirection>
+    <CameraUpVector>
+      <X>0.050816841423511505</X>
+      <Y>0.0625186562538147</Y>
+      <Z>0.996749222278595</Z>
+    </CameraUpVector>
+    <FieldOfView>60.000001669652114</FieldOfView>
+  </PerspectiveCamera>
+  <Components>
+    <Selection>
+      <Component IfcGuid="0mBJLOH9HBCPSWLix75Gnd">
+        <OriginatingSystem>3D Repo</OriginatingSystem>
+      </Component>
+    </Selection>
+    <Visibility DefaultVisibility="true">
+      <Exceptions>
+        <Component IfcGuid="1aHYacgn18aBKXneWME$Js">
+          <OriginatingSystem>3D Repo</OriginatingSystem>
+        </Component>
+        <Component IfcGuid="3TY3tc1rT1mAnU0bQnJTyR">
+          <OriginatingSystem>3D Repo</OriginatingSystem>
+        </Component>
+        <Component IfcGuid="3cI8H4i0n2681nLh9OcYaJ">
+          <OriginatingSystem>3D Repo</OriginatingSystem>
+        </Component>
+      </Exceptions>
+    </Visibility>
+  </Components>
+</VisualizationInfo>
